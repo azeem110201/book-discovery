@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+              "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="0.355556in" height="0.355556in"
+     viewBox="0 0 32 32">
+  <path id="Imported Path"
+        fill="none" stroke="black" stroke-width="1"
+        d="M 32.00,16.00
+           C 32.00,24.84 24.84,32.00 16.00,32.00
+             7.16,32.00 0.00,24.84 0.00,16.00
+             0.00,7.16 7.16,0.00 16.00,0.00
+             24.84,0.00 32.00,7.16 32.00,16.00 Z" />
+</svg>

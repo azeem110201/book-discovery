@@ -1,0 +1,480 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Inorganic Chemistry",
+      "author": "J D Lee",
+      "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+      "image": "../images/image1.svg",
+      "category": "Chemistry",
+      "rating": 4.5,
+      "numberOfRatings": "830 ratings",
+      "authorAvatar": "../images/author1.svg",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 2,
+      "title": "Inorganic Chemistry",
+      "author": "J D Lee",
+      "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+      "image": "../images/image2.svg",
+      "category": "Chemistry",
+      "rating": 4.5,
+      "numberOfRatings": "830 ratings",
+      "authorAvatar": "../images/author1.svg",
+      "status": {
+        "isReading": true,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 3,
+      "title": "Inorganic Chemistry",
+      "author": "J D Lee",
+      "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+      "image": "../images/image3.svg",
+      "category": "Chemistry",
+      "rating": 4.5,
+      "numberOfRatings": "830 ratings",
+      "authorAvatar": "../images/author1.svg",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 4,
+      "title": "Inorganic Chemistry",
+      "author": "J D Lee",
+      "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+      "image": "../images/image4.svg",
+      "category": "Chemistry",
+      "rating": 4.5,
+      "numberOfRatings": "830 ratings",
+      "authorAvatar": "../images/author1.svg",
+      "status": {
+        "isReading": true,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 5,
+      "title": "Inorganic Chemistry",
+      "author": "J D Lee",
+      "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+      "image": "../images/image5.svg",
+      "category": "Chemistry",
+      "rating": 4.5,
+      "numberOfRatings": "830 ratings",
+      "authorAvatar": "../images/author1.svg",
+      "status": {
+        "isReading": true,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 6,
+      "title": "Inorganic Chemistry",
+      "author": "J D Lee",
+      "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+      "image": "../images/image6.svg",
+      "category": "Chemistry",
+      "rating": 4.5,
+      "numberOfRatings": "830 ratings",
+      "authorAvatar": "../images/author1.svg",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 7,
+      "title": "Inorganic Chemistry",
+      "author": "J D Lee",
+      "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+      "image": "../images/image7.svg",
+      "category": "Chemistry",
+      "rating": 4.5,
+      "numberOfRatings": "830 ratings",
+      "authorAvatar": "../images/author1.svg",
+      "status": {
+        "isReading": true,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 8,
+      "title": "Inorganic Chemistry",
+      "author": "Abdul Azeem",
+      "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+      "image": "../images/image8.svg",
+      "category": "Chemistry",
+      "rating": 4.5,
+      "numberOfRatings": "830 ratings",
+      "authorAvatar": "../images/author1.svg",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 9,
+      "title": "Inorganic Chemistry",
+      "author": "J D Lee",
+      "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+      "image": "../images/image9.svg",
+      "category": "Chemistry",
+      "rating": 4.5,
+      "numberOfRatings": "830 ratings",
+      "authorAvatar": "../images/author1.svg",
+      "status": {
+        "isReading": true,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 10,
+      "title": "Inorganic Chemistry",
+      "author": "J D Lee",
+      "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+      "image": "../images/image10.svg",
+      "category": "Chemistry",
+      "rating": 4.5,
+      "numberOfRatings": "830 ratings",
+      "authorAvatar": "../images/author1.svg",
+      "status": {
+        "isReading": true,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 11,
+      "title": "Inorganic Chemistry",
+      "author": "VK",
+      "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+      "image": "../images/Rectangle 7.svg",
+      "category": "Chemistry",
+      "rating": 4.5,
+      "pages": "20/250 pages left",
+      "status": {
+        "isReading": true,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 12,
+      "title": "The Physics Book",
+      "author": "Clif",
+      "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+      "image": "../images/Rectangle 7-1.svg",
+      "category": "Physics",
+      "rating": 4.5,
+      "pages": "120/300 pages left",
+      "status": {
+        "isReading": true,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 13,
+      "title": "Biology",
+      "author": "Marie",
+      "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+      "image": "../images/Rectangle 7-2.svg",
+      "category": "Biology",
+      "rating": 4.5,
+      "pages": "111/210 pages left",
+      "status": {
+        "isReading": true,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 14,
+      "title": "World History",
+      "author": "Krish",
+      "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+      "image": "../images/Rectangle 7-3.svg",
+      "category": "History",
+      "rating": 4.5,
+      "pages": "300/320 pages left",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 15,
+      "title": "Basic Physics",
+      "author": "Karl F Kuhn",
+      "image": "../images/Rectangle 19.svg",
+      "category": "Chemistry",
+      "rating": 4.5,
+      "numberOfRatings": "1230 ratings",
+      "status": {
+        "isReading": true,
+        "isBookmarked": false,
+        "isRecommended": true,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 16,
+      "title": "Bio Organic Chemistry",
+      "author": "Sidney M Hecht",
+      "image": "../images/Rectangle 19-1.svg",
+      "category": "Chemistry",
+      "rating": 4.5,
+      "numberOfRatings": "1230 ratings",
+      "status": {
+        "isReading": true,
+        "isBookmarked": false,
+        "isRecommended": true,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 17,
+      "title": "Crystal Chemistry",
+      "author": "Gerald Ferey",
+      "image": "../images/Rectangle 19-2.svg",
+      "category": "Chemistry",
+      "rating": 3.5,
+      "numberOfRatings": "1110 ratings",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": true,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 18,
+      "title": "Biology",
+      "author": "SergeyVasutin",
+      "image": "../images/Rectangle 19-3.svg",
+      "category": "Chemistry",
+      "rating": 3.5,
+      "numberOfRatings": "130 ratings",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": true,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 19,
+      "title": "Inorganic Cemistry",
+      "author": "Roary Ried",
+      "image": "../images/Rectangle 18.svg",
+      "category": "Chemistry",
+      "rating": 4.5,
+      "numberOfRatings": "1210 ratings",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": true,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 20,
+      "title": "English Grammar",
+      "author": "Sidney Greenbaum",
+      "image": "../images/Rectangle 18-1.svg",
+      "category": "Chemistry",
+      "rating": 4.2,
+      "numberOfRatings": "1120 ratings",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": true,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 21,
+      "title": "Heterocycles Chemistry",
+      "author": "Yann Martel",
+      "image": "../images/Rectangle 18-2.svg",
+      "category": "Chemistry",
+      "rating": 3.5,
+      "numberOfRatings": "1110 ratings",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": true,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 22,
+      "title": "World Geograhyy",
+      "author": "Charles Dickens",
+      "image": "../images/Rectangle 18-3.svg",
+      "category": "Chemistry",
+      "rating": 3.5,
+      "numberOfRatings": "130 ratings",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": true,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 27,
+      "image": "../images/Rectangle 10.svg",
+      "category": "GEOGRAPHY",
+      "status": null
+    },
+    {
+      "id": 28,
+      "image": "../images/Rectangle 10-1.svg",
+      "category": "HISTORY",
+      "status": null
+    },
+    {
+      "id": 29,
+      "image": "../images/Rectangle 10-2.svg",
+      "category": "ECONOMICS",
+      "status": null
+    },
+    {
+      "id": 30,
+      "image": "../images/Rectangle 10-3.svg",
+      "category": "TELUGU",
+      "status": null
+    },
+    {
+      "id": 31,
+      "image": "../images/Rectangle 10-4.svg",
+      "category": "MATHS",
+      "status": null
+    },
+    {
+      "id": 32,
+      "image": "../images/Rectangle 10-5.svg",
+      "category": "SCIENCE",
+      "status": null
+    },
+    {
+      "id": 23,
+      "title": "Principles of Physics",
+      "author": "Rohit Mehta",
+      "image": "../images/Rectangle 20.svg",
+      "category": "Chemistry",
+      "rating": 4.5,
+      "numberOfRatings": "1210 ratings",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": true
+      }
+    },
+    {
+      "id": 24,
+      "title": "German History",
+      "author": "Eric Dorn Brose",
+      "image": "../images/Rectangle 20-1.svg",
+      "category": "Chemistry",
+      "rating": 4.2,
+      "numberOfRatings": "1120 ratings",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": true
+      }
+    },
+    {
+      "id": 25,
+      "title": "Jungle Book",
+      "author": "Yann Martel",
+      "image": "../images/Rectangle 20-2.svg",
+      "category": "Chemistry",
+      "rating": 3.5,
+      "numberOfRatings": "1110 ratings",
+      "status": {
+        "isReading": true,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": true
+      }
+    },
+    {
+      "id": 26,
+      "title": "The Prophet",
+      "author": "Charles Dickens",
+      "image": "../images/Rectangle 20-3.svg",
+      "category": "Chemistry",
+      "rating": 3.5,
+      "numberOfRatings": "130 ratings",
+      "status": {
+        "isReading": true,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": true
+      }
+    }
+  ]
+}
