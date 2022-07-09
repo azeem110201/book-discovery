@@ -1,11 +1,12 @@
-# {{values.project_name}}
+# Book Discovery App
+
+Simple Book Management app where you can add books to library, search for different books and also bookmark the books you liked. Atoms, Molecules and Organims where created using AWS Amplify Studio.
 
 #### React Structure 
 
 This React Template contains 
 
 * Basic project scafolding with atomic design and routing
-* Storybook setup
 * Lint and code formatting tools 
 * Git precommit hook setup
 * Production grade webpack config
@@ -22,5 +23,6 @@ This React Template contains
 
 #### Running the application
 
+- Start the mock API using `npm run json-server`
 - Start the application using `npm start`
 - Build the project using `npm run build`
